@@ -1,4 +1,6 @@
 # Exno:1
+Name : Mohamed Abrar M
+Reg no: 212223040111
 Data Cleaning Process
 
 # AIM

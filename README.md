@@ -1,11 +1,9 @@
 # Exno:1
+**Name : Mohamed Abrar M**
 <br/>
- **Name : Mohamed Abrar M** 
- <br/>
- **Reg no: 212223040111**
- <br/><br/>
- **Data Cleaning Process** 
- <br/>
+**Reg no: 212223040111**
+<br/><br/>
+**Data Cleaning Process** 
 
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
